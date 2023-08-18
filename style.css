@@ -1,0 +1,12 @@
+*{
+    background-color: white;
+}
+#carroselimagem{
+    width: 200px;
+    height: 300px;
+    
+}
+.carrosel{
+    text-align: center;
+    margin-top: 100px;
+}
